@@ -11,9 +11,9 @@ Sticky Notes is a free, open-source, browser-only note-taking app. No accounts, 
 - 💾 Everything saves automatically to your browser's `localStorage` — no sign-up, no backend, no accounts
 - ⚡ Zero build step — just static HTML, CSS, and JavaScript
 
-## Live Demo
+## Live Link
 
-[Add your deployed link here once it's live]
+webstickynotes.netlify.app
 
 ## Getting Started
 
